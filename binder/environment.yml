@@ -2,12 +2,12 @@ channels:
   - vtraag
   - conda-forge
 dependencies:
-  - igraph
-  - pycairo >=1.10,<2
-  - python-igraph
-  - louvain
   - numpy
   - scipy
   - pandas
   - matplotlib
   - seaborn
+  - igraph
+  - pycairo >=1.10,<2
+  - python-igraph
+  - louvain  
