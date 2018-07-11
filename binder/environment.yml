@@ -8,7 +8,6 @@ dependencies:
   - louvain
   - numpy
   - scipy
-  - random
   - pandas
   - matplotlib
   - seaborn
