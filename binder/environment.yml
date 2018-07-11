@@ -3,4 +3,5 @@ channels:
   - conda-forge
 dependencies:
   - igraph
+  - pycairo >=1.10,<2
   - python-igraph
