@@ -7,4 +7,8 @@ dependencies:
   - python-igraph
   - louvain
   - numpy
+  - scipy
+  - random
   - pandas
+  - matplotlib
+  - seaborn
