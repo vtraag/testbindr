@@ -1,6 +1,6 @@
 channels:
-  - conda-forge
   - vtraag
+  - conda-forge
 dependencies:
   - python-igraph
   - louvain
