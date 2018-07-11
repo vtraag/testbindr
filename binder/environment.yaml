@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - vtraag
+dependencies:
+  - python-igraph
+  - louvain
+  - matplotlib
+  - numpy
+  - pandas
