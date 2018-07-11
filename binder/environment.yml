@@ -5,3 +5,6 @@ dependencies:
   - igraph
   - pycairo >=1.10,<2
   - python-igraph
+  - louvain
+  - numpy
+  - pandas
