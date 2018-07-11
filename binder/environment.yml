@@ -7,6 +7,6 @@ dependencies:
   - scipy
   - pandas
   - igraph
-  - pycairo >=1.10,<2
+  - pycairo
   - python-igraph
   - louvain  
